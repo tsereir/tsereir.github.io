@@ -25,13 +25,15 @@ comments: false
 ::: {.column-page}
 
 ## Bio
-I’m an intern at [Capital Fund Management](https://www.cfm.com/) in Paris, diving into the complexities of American options pricing with the volatility team. My work involves exploring advanced pricing methods and developing solutions using Python, C++, and Rust.
+<!-- <p>I’m an <strong>IT Quant</strong> at <a href="https://www.cfm.com/">Capital Fund Management</a> in Paris, working on options data with the data volatility team.</p>
+<p>I graduated with a Master’s in Financial Engineering from <strong>ENSIMAG</strong> in Grenoble, specializing in quantitative finance, stochastic calculus, and derivatives.</p> -->
 
-Currently, I’m pursuing a Master’s in Financial Engineering at ENSIMAG in Grenoble, where I delve into quantitative finance, stochastic calculus, and derivatives.
+I’m an IT Quant at [Capital Fund Management](https://www.cfm.com/) in Paris, working on options data with the data volatility team. 
+I graduated with a Master’s in Financial Engineering from ENSIMAG in Grenoble, specializing in quantitative finance, stochastic calculus, and derivatives.
 
 Outside of work, I enjoy exploring new technologies and problem-solving. I’m also passionate about sharing knowledge and contributing to the finance and tech communities.
 
-**Interests:** Quantitative Finance, Algorithm Development, Financial Technology, Continuous Learning 
+**Interests:** Algorithmic trading, Quantitative Finance, Algorithm Development, Financial Technology, Continuous Learning 
 
 
 ## Inquiries
