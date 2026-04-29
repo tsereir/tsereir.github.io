@@ -12,7 +12,7 @@ about:
       url: "https://github.com/tsereir"
     - text: Email
       icon: envelope
-      url: "mailto:tariq.sereir77@gmail.com"
+      url: "mailto:sereirtariq@gmail.com"
 comments: false
 ---
 
